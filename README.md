@@ -1,7 +1,9 @@
 # routing-example
 ## RecipeBook
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.5.  This is an example app for a quick overview of angular routing.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.5.  
+
+This is an example app for a quick overview of angular routing. Tutorial walk through.
 
 ## Development server
 
@@ -20,7 +22,9 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
 ## Running end-to-end tests
-NOTE: e2e not implemented
+
+NOTE: e2e not implemented.  
+
 Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
 ## Further help
